@@ -12,8 +12,8 @@ The dataset used consists of fire and non-fire images. It is included in the rep
 
 # Project Structure
 Fire-Detection/
-├── Notebook-1_Fire_dataset_Analysis[1].ipynb
-├── Notebook-2_fire_dataset_Analysis[2].ipynb
-├── Notebook-3_Fire_dataset_Transfer_Learning.ipynb
+├── Notebook-01_Initial_Analysis.ipynb
+├── Notebook-02_Enhanced_Model_Analysis.ipynb
+├── Notebook-03_Transfer_Learning.ipynb
 ├── fire_dataset/
 └── README.md
